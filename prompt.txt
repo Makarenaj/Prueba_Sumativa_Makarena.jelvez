@@ -1,4 +1,9 @@
-1) Primera etapa de desarrollo de sitio web.
+1) Primera etapa: de desarrollo de sitio web.
 Se siguio la linea de creación automatica que crea un contenedor para explicar la información del prodcuto.
 Explicar y interesar al cliente sobre el producto
 util a la hora de almacenar informacion y presentacion.
+2) Segunda etapa:Mejorar visual en la pagina web
+Se arregla la pagina web y se coloca mayor esfuerzo en la direccion de informacion
+Arreglar el diseño y que sea mayor atrayente a las personas
+Util a la hora de atraer la atencion de las clientes
+3) Tercera etapa: 

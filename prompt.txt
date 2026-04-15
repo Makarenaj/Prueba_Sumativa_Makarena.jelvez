@@ -1,0 +1,4 @@
+1) Primera etapa de desarrollo de sitio web.
+Se siguio la linea de creación automatica que crea un contenedor para explicar la información del prodcuto.
+Explicar y interesar al cliente sobre el producto
+util a la hora de almacenar informacion y presentacion.
